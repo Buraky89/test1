@@ -52,10 +52,7 @@ If no match: returns an empty array `[]`.
 ---
 
 ## Tests
-There are some integration tests (xUnit + WebApplicationFactory). Run them with:  
+Integration tests with xUnit + WebApplicationFactory. Run them with:  
 
     dotnet test
 
----
-
-That’s it. It’s a simple CSV-backed API, nothing fancy.
